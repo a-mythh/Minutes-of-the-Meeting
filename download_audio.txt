@@ -1,0 +1,2 @@
+1. IN1001 - https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IN1001/audio/IN1001.Mix-Headset.wav
+2. IB4001 - https://groups.inf.ed.ac.uk/ami/AMICorpusMirror//amicorpus/IB4001/audio/IB4001.Mix-Headset.wav
